@@ -2,38 +2,30 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+This is a Portfolio website created for our team 'Net Surfers'.
 
 
 ## Demo + Video
-
-Insert gif or link to demo, or video
-[link to video]
+[https://www.loom.com/share/9420f3f5a6d344afbac7a5d71409b524]
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
+1. Divya Revindran[https://github.com/DivyaRevindran]
+2. Riya Joseph [https://github.com/riyajoseph2001]
 
   
 ## Tech Stack
-
-Eg: Flutter, Python, Html, CSS, JavaScript
+Html,CSS
 
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+We have done this project using Html,CSS and Bootstrap framework.This is a completely responsive website.We have included home,about,projects and contact section.In the contact section we have added links to our Github,Linkedin and Facebook account.
 
   
 ## Features
-Examples:
-- Cool Animations
-- Responsive
-- Cross platform
-
+Responsive
+Cool Images
   
 ## Run Locally
 
